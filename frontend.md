@@ -6,25 +6,25 @@ This file contains the frontend roadmap translated in the checklist form to make
 
 ## Step 1 – Learn the Basics
 
-First thing that you would want to do is learn the basics which includes learning the basics of HTML, CSS and some familiarization with JavaScript syntax. 
+First thing that you would want to do is learn the basics which includes learning the basics of HTML, CSS and some familiarization with JavaScript syntax.
 
 - [ ] Learn the basics of HTML
-  - [ ] Learn the basics and how to write semantic HTML
-  - [ ] Understand how to divide page into sections and to structure the DOM properly
+  - [x] Learn the basics and how to write semantic HTML
+  - [x] Understand how to divide page into sections and to structure the DOM properly
   - [ ] **Task** Make at least 5 HTML pages – focus on structure, don't worry about the *beauty* yet
 - [ ] Learn the basics of CSS
-  - [ ] Learn the basics of CSS
+  - [x] Learn the basics of CSS
   - [ ] Learn how to use Grid and Flexbox
-  - [ ] Media queries and how to make responsive websites
+  - [x] Media queries and how to make responsive websites
   - [ ] Understand CSS Specificity, Box-Model etc
   - [ ] **Task** Style the HTML pages that you made in last step
 - [ ] Basics of JavaScript
-  - [ ] Learn the syntax and the basic constructs
-  - [ ] Learn how to manipulate DOM
+  - [x] Learn the syntax and the basic constructs
+  - [x] Learn how to manipulate DOM
   - [ ] Understand the concepts such as hoisting, event bubbling, prototypes etc
-  - [ ] Learn Ajax (XHR)
+  - [x] Learn Ajax (XHR)
   - [ ] Learn new features in ES6+ and how to write modular JavaScript
-- [ ] Learn jQuery – **Optional (you can leave it for now and revisit later)**
+- [x] Learn jQuery – **Optional (you can leave it for now and revisit later)**
 
 ## Step 2 – Practice what you have learnt!
 
@@ -47,7 +47,7 @@ Link this repo and tell them you are learning and ask for feedback on your PR an
 
 NPM and Yarn both are almost same in usage; you can learn one of them and you automatically learn the other.
 
-- [ ] Learn how to use NPM
+- [x] Learn how to use NPM
 - [ ] Learn how to use Yarn
 - [ ] Understand Semantic Versioning
 - [ ] **Task** Install some external library using yarn or npm into the webpages that you made previously
@@ -56,9 +56,9 @@ NPM and Yarn both are almost same in usage; you can learn one of them and you au
 
 Preprocessors enrich CSS with the functionality that it isn’t capable of by default. There are different many options Sass, Less, Stylus etc. If I were to pick one, I would go for Sass. However, PostCSS has been gaining a lot of traction lately, it is a nice-to-have and is sort of “Babel” for CSS. You can use it stand-alone or on top of Sass also. I would recommend you to learn Sass for now and revisit PostCSS later when you have time.
 
-- [ ] Pick one of these
-  - [ ] **Sass (Recommended)**
-  - [ ] Less
+- [x] Pick one of these
+  - [x] **Sass (Recommended)**
+  - [x] Less
   - [ ] **PostCSS (do this later)**
   - [ ] Stylus
 
@@ -66,7 +66,7 @@ Preprocessors enrich CSS with the functionality that it isn’t capable of by de
 
 This used to be way up in the chart, but I moved it down below as they aren't really needed any more and can be mastered without much effort. If you would want to pick any, there is one under every rock. The ones that I liked the most among the ones that I tried are Bootstrap, Materialize and Bulma. But if you look at their demand in market I would pick Bootstrap if I was starting today.
 
-- [ ] **Bootstrap (Recommended)**
+- [x] **Bootstrap (Recommended)**
 - [ ] Materialize CSS
 - [ ] Bulma
 
@@ -86,7 +86,7 @@ These are the tools that help you in bundling, building and development of your 
 
 There used to be alot of stuff in the task runners but today I would just pick NPM scripts, however if you want to pick something else, have a look at gulp
 
-- [ ] **NPM Scripts (Recommended)**
+- [x] **NPM Scripts (Recommended)**
 - [ ] Gulp
 
 There are several linters, but I would go for ESLint. Feel free to have a look at others and see why one over the other
@@ -122,7 +122,7 @@ There are several options, when it comes to frameworks. However, below listed fr
   - [ ] Rx.js – Is really powerful can be used out of angular also
   - [ ] Ngrx
 - [ ] Vue.js
-  - [ ] Vuex - Similar to redux but for Vue 
+  - [ ] Vuex - Similar to redux but for Vue
 
 ## Step 11 – Practical Time
 
@@ -176,6 +176,3 @@ Canvas, HTML-5 APIs, SVG, sourcemaps, functional programming, TC39, Progressive 
 And the journey doesn't end here. There is still a lot of stuff you can learn about, you just have to keep a healthy appetite for learning and not settling.
 
 Good luck 👏
-
-
-
